@@ -11,5 +11,17 @@
   "dependencies": {
     "express": "^4.17.1",
     "ws": "^7.4.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midlajc/teli_chat.git"
+  },
+  "keywords": [
+    "teli_chat"
+  ],
+  "bugs": {
+    "url": "https://github.com/midlajc/teli_chat/issues"
+  },
+  "homepage": "https://github.com/midlajc/teli_chat#readme"
 }
