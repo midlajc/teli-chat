@@ -1,7 +1,7 @@
 {
   "name": "teli_chat",
   "version": "1.0.0",
-  "description": "Teminal Chat",
+  "description": "Terminal Chat",
   "main": "app.js",
   "scripts": {
     "test": "npm test"
