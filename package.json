@@ -1,0 +1,15 @@
+{
+  "name": "teli_chat",
+  "version": "1.0.0",
+  "description": "Teminal Chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "midlajc",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.5"
+  }
+}
