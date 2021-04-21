@@ -1,6 +1,6 @@
 const http = require('http').createServer();
 const io = require('socket.io')(http);
-const port = 3000
+const port = 80
 
 http.listen(port, () => console.log(`server listening on port: ${port}`))
 
