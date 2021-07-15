@@ -10,6 +10,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "chalk": "^4.1.0",
+    "cros": "^1.0.1",
     "express": "^4.17.1",
     "readline-sync": "^1.4.10",
     "repl": "^0.1.3",
