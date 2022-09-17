@@ -2,11 +2,11 @@ const http = require('http').createServer();
 const io = require('socket.io')(http);
 var express = require('express')
 let exp = express()
-var cros = require('cors')
+var cors = require('cors')
 
 const port = 3000
 
-exp.use(cros())
+exp.use(cors())
 
 http.listen(port, () => console.log(`server listening on port: ${port}`))
 
